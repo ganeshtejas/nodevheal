@@ -14,7 +14,7 @@ var config = {
     messagingSenderId: "278168348282"
   };
   firebase.initializeApp(config);
-  var xyz;
+  var wxyz;
   app.get('/',function(req,res){
    // var post="tej";
     //var x=firebase.database().ref("/login/");
